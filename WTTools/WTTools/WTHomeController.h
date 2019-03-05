@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  WTHomeController.h
 //  WTTools
 //
-//  Created by tianmaotao on 2019/3/4.
+//  Created by tianmaotao on 2019/3/5.
 //  Copyright © 2019年 tianmaotao. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface WTHomeController : UIViewController
 
 @end
-
